@@ -1,7 +1,5 @@
-# **Escaping the**
-# **Mac App Sandbox**
-## \(or at least a small part of it\)
+# **Escaping the Mac App Sandbox**
 
-Presentation to Triangle CocoaHeads on May 22, 2014.
+Presentation at Triangle CocoaHeads on May 22, 2014.
 
 I chose the "Plain Jane" theme in dark grey.

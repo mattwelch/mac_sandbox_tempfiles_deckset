@@ -112,7 +112,6 @@ Apple has repurposed File Presenters to enable "Related Items" in sandboxed apps
 
 * Must have the same name (minus extension) as the item to which they are related
 * Must have a known-ahead-of-time extension
-* Must be in the same directory as the parent item
 
 ^
 Point out that as-designed reason for related files is for things like opening subtitle files for movies, or for an sqlite journal file
@@ -214,13 +213,18 @@ In the Project Navigator, under the "Info" tab, there is a "Documents Type" sect
 ---
 
 # Demo
+![350%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/bearings.png)
+
 
 ---
 
 # Further Information
 More in-depth information can be found at:
-
 http://mattwel.ch/temporary-files-in-sandboxed-mac-apps/
+
+
+This presentation is on github:
+https://github.com/mattwelch/mac\_sandbox\_tempfiles\_deckset
 
 ---
 
