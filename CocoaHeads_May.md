@@ -22,12 +22,12 @@ I'm me. Work here in Durham at the American Underground at Wired Triangle.
 ---
 
 # Bearings
-![inline 120%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/bearings.png)
+![inline 120%](Assets/bearings.png)
 
 ---
 
 # What is the Mac App Sandbox?
-![](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/sandbox.jpg)
+![](Assets/sandbox.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ Specifically, sandboxing limits an app to only those files or directories explic
 
 For most cases this is OK. (In fact, Deckset here regularly asks permission to access a photo I want to use that's on my filesystem.)
 
-![140% inline](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/deckset_asking.png)
+![140% inline](Assets/deckset_asking.png)
 
 ^
 Maybe show a demo of deckset asking for permissions.
@@ -58,7 +58,7 @@ Maybe show a demo of deckset asking for permissions.
 ---
 
 # Temporary Files
-![100% right](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/grant_access)
+![100% right](Assets/grant_access)
 
 The problem is that temporary files are supposed to be invisible to the end user.
 
@@ -71,37 +71,37 @@ Now multiple this bad experience by 10. Or 100. Or however many hundreds of phot
 # Workaround: File Presenters
 ### File Presenters?
 
-![](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/file_presenter.jpg)
+![](Assets/file_presenter.jpg)
 
 ---
 
 ## Yes, File Presenters.
 - Around since 10.7, File Presenters (and their "parents" File Coordinators) have made working with the file system in a multi-threaded, multi-processing environment easier and safer.
-![inline 55%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/presenter_1.png)
+![inline 55%](Assets/presenter_1.png)
 
 ---
 
 ## Yes, File Presenters.
 - Around since 10.7, File Presenters (and their "parents" File Coordinators) have made working with the file system in a multi-threaded, multi-processing environment easier and safer.
-![inline 55%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/presenter_2.png)
+![inline 55%](Assets/presenter_2.png)
 
 ---
 
 ## Yes, File Presenters.
 - Around since 10.7, File Presenters (and their "parents" File Coordinators) have made working with the file system in a multi-threaded, multi-processing environment easier and safer.
-![inline 55%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/presenter_3.png)
+![inline 55%](Assets/presenter_3.png)
 
 ---
 
 ## Yes, File Presenters.
 - Around since 10.7, File Presenters (and their "parents" File Coordinators) have made working with the file system in a multi-threaded, multi-processing environment easier and safer.
-![inline 55%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/presenter_4.png)
+![inline 55%](Assets/presenter_4.png)
 
 ---
 
 ## Yes, File Presenters.
 - Around since 10.7, File Presenters (and their "parents" File Coordinators) have made working with the file system in a multi-threaded, multi-processing environment easier and safer.
-![inline 55%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/presenter_5.png)
+![inline 55%](Assets/presenter_5.png)
 
 ---
 
@@ -208,12 +208,12 @@ In the Project Navigator, under the "Info" tab, there is a "Documents Type" sect
 
 # XCode Target Setup
 
-![inline 250%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/xcode.png)
+![inline 250%](Assets/xcode.png)
 
 ---
 
 # Demo
-![350%](/Users/matt/Documents/Presentations/CocoaHeads/May2014/Assets/bearings.png)
+![350%](Assets/bearings.png)
 
 
 ---
