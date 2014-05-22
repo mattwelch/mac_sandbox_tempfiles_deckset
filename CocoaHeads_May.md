@@ -8,7 +8,7 @@ These are my notes
 
 # Matt Welch
 
-![right 70%](/Users/matt/Dropbox/Photos/headshot_2014.jpg)
+![right 70%](Assets/headshot_2014.jpg)
 
 Developer working on iOS, Mac, and node apps by night, and on the Force.com platform by day.
 
@@ -64,7 +64,7 @@ The problem is that temporary files are supposed to be invisible to the end user
 
 What kind of experience would this be?
 
-Now multiple this bad experience by 10. Or 100. Or however many hundreds of photos (in the case of Bearings app) that need to be processed.
+Now multiply this bad experience by 10. Or 100. Or however many hundreds of photos (in the case of Bearings app) that need to be processed.
 
 ---
 
